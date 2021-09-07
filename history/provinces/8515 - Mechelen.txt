@@ -2,10 +2,11 @@
 #Region - Low Countries
 #Area - Brabant
 
-owner = BRB
-controller = BRB
+owner = FLA
+controller = FLA
 add_core = BRB
 add_core = FRA
+add_core = FLA
 is_city = yes
 capital = "Mechelen"
 culture = brabantian
