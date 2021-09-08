@@ -55,11 +55,11 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 7954;6951;sea;8326;-1;-1;-1;-1;Helder-Hoorn
 97;6951;sea;8352;-1;-1;-1;-1;Amsterdam-Hoorn
 7954;100;sea;8326;-1;-1;-1;-1;Helder-Friesland
-96;8112;sea;8328;-1;-1;-1;-1;Zeeland-Rotterdam
-96;95;sea;8328;-1;-1;-1;-1;Zeeland-Breda
+8742;8112;sea;8328;-1;-1;-1;-1;Noord Zeeland-Rotterdam
+7975;8745;sea;8328;-1;-1;-1;-1;Dordrecht-Geertruidenberg
 96;8021;sea;8328;-1;-1;-1;-1;Zeeland-Hulst
 3060;99;sea;8357;-1;-1;-1;-1;Nijmegen-Gelre
-4770;7975;sea;8357;-1;-1;-1;-1;'sHertogenbosch - Dort
+4770;8743;sea;8357;-1;-1;-1;-1;'sHertogenbosch - Gorcum
 78;7547;sea;8329;-1;-1;-1;-1;Frankfurt - Russelsheim
 85;84;sea;8357;-1;-1;-1;-1;Koln - Berg
 6933;6934;sea;1559;-1;-1;-1;-1;Kiis Gwaay - Gwaay Haanas
@@ -315,4 +315,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 491;2808;sea;1519;-1;-1;-1;-1;Curacao-Coro
 2807;830;sea;1519;-1;-1;-1;-1;Altagracia-Maracaibo
 134;7672;sea;8355;-1;-1;-1;-1;Wein-Donaustadt
+8743;8742;sea;8355;-1;-1;-1;-1;Schouwen-Noord Zeeland
+8742;8112;sea;8355;-1;-1;-1;-1;Noord Zeeland-Rotterdam
+8742;8738;sea;8355;-1;-1;-1;-1;Noord Zeeland-Delft
+8742;7975;sea;8355;-1;-1;-1;-1;Noord Zeeland-Dordrecht
+7975;8739;sea;8355;-1;-1;-1;-1;Dordrecht-Gouda
+7975;8744;sea;8355;-1;-1;-1;-1;Dordrecht-Gorcum
 -1;-1;;-1;-1;-1;-1;-1;-1;

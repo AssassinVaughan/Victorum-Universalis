@@ -3,8 +3,7 @@
 owner = HOL
 controller = HOL
 add_core = HOL
-add_core = ZEE
-culture = zeelandic
+culture = dutch
 religion = catholic
 capital = "Rotterdam"
 base_tax = 4
